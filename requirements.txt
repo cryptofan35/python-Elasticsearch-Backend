@@ -1,0 +1,4 @@
+elasticsearch7==7.12.1
+mysql-connector==2.2.9
+python-dotenv==0.17.1
+requests==2.25.1
